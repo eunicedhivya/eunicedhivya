@@ -1,11 +1,18 @@
 <h1 align="left">Hi 👋, I'm Eunice Dhivya</h1>
 <h4 align="left">Frontend Developer - Designer - Aspiring Data Scientist</h4>
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://codepen.io/eunicedhivya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="eunicedhivya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/eunicedhivya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eunicedhivya" height="30" width="40" /></a>
 </p>
-
+<hr>
+<h3 align="left">Featured Works:</h3>
+- [Chandrayaan - WANIFRA 2019 Silver for Best Data Visualization](https://thefederal.com/features/interactive-graphic-chandrayaan-2-indias-ambitious-mission-to-moon/)
+- [Mars Mission - WANIFRA 2020 Gold for Best Data Visualization](https://thefederal.com/interactive/perseverance-nasa-2020/)
+- [Lok Sabha 2019](https://thefederal.com/elections-2019/election-result2019/)
+- [Covid19 Dashboard](https://covid19.thefederal.com/main.html)
+- [US Presidential Election](https://thefederal.com/interactive/us-election-2020/)
+- 
 <hr>
 <h4 align="left">Languages and Tools:</h3>
 <p align="left"> 
