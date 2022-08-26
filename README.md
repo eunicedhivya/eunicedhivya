@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Eunice Dhivya</h1>
-<h4 align="left">Frontend Developer - Designer - Aspiring Data Scientist</h4>
+<h4 align="left">Frontend Developer - Designer - Data Visualizer</h4>
 
 <hr>
 <h3 align="left" style="color:blue;">Featured Works:</h3>
